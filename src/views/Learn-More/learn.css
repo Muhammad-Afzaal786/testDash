@@ -1,0 +1,41 @@
+
+.icon-image{
+    display: flex;
+    align-items: center;
+}
+.icon-image .icon{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    background-color: rgba(223, 223, 255, 0.315);
+    color: white;
+    font: 20px poppinsSb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icon-image .title{
+    font: 20px poppinsSb;
+    color: var(--secondaryK);
+    padding-left: 20px;
+}
+
+.learn-card{
+    filter: drop-shadow(0px 2px 12px rgba(99, 99, 99, 0.15));
+    background-color: white !important;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.learn-card-body{
+    padding: 20px 30px !important;
+}
+.learn-card-text{
+    font: 12px opensansSb;
+    color: var(--greyK);
+    padding-top: 10px !important;
+}
+.learn-card-body button{
+    margin-top: 20px;
+}

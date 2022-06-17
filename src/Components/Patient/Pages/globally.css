@@ -1,0 +1,49 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    list-style: none;
+}
+.NavBar{
+    width: 100%;
+    background-color: #f1f2f6;
+    padding: 10px 10px;
+    border-bottom: 1px solid #ced6e0;
+}
+.sidebar{
+    width: 12rem;
+    height: calc(100vh -52px);
+    border-right: 1px solid #ced6e0;
+    height: 100vh;
+    background-color: #f1f2f6;
+}
+.listDive{
+    padding: 1rem 1rem;
+}
+.listDive li{
+    margin-bottom: 1rem;
+}
+.listDive li a{
+    text-decoration: none;
+    color: grey;
+    font-weight: 600;
+}
+
+.flex{
+    display: flex;
+}
+.content{
+    width: 100%;
+}
+.side-btn{
+    cursor: pointer;
+    transition: 0.5s;
+    transition-property: color;
+    color: black;
+}
+.side-btn:hover{
+    cursor: pointer;
+    transition: 0.2s;
+    transition-property: color;
+    color: #1e90ff;
+}

@@ -1,0 +1,32 @@
+:root {
+  --primaryK: #24AAE3;
+  --secondaryK: #011936;
+  --greyK: #808080;
+  --inputK: rgba(223, 223, 255, 0.315);
+}
+
+/* adding fonts */
+@font-face {
+  font-family: "poppins";
+  src: url(assets/fonts/Poppins-Regular.ttf);
+}
+@font-face {
+  font-family: "poppinsSb";
+  src: url(assets/fonts/Poppins-SemiBold.ttf);
+}
+@font-face {
+  font-family: "poppinsB";
+  src: url(assets/fonts/Poppins-Bold.ttf);
+}
+@font-face {
+  font-family: "opensans";
+  src: url(assets/fonts/OpenSans-Regular.ttf);
+}
+@font-face {
+  font-family: "opensansSb";
+  src: url(assets/fonts/OpenSans-SemiBold.ttf);
+}
+@font-face {
+  font-family: "opensansB";
+  src: url(assets/fonts/OpenSans-Bold.ttf);
+}
