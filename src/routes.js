@@ -1,43 +1,43 @@
 import React from "react";
 import { Route, Routes  } from "react-router-dom";
-import LandingPage from "./views/LandingPage/LandingPage";
-import Services from "./views/Servic/Service";
-import LearnMore from "./views/Learn-More/LearnMore";
-import Location from "./views/Location/Location";
-import Login from "./views/Login-Signup/Login";
-import LoginDr from "./views/Login-Signup/loginDr";
-import LoginLab from "./views/Login-Signup/loginLab";
-import SignUp from "./views/Login-Signup/SignUp";
-import WhyChooseUs from "./views/ChooseUs/WhyChooseUs";
-import AboutDoctor from "./views/About/AboutDoctor";
-import AboutPatient from "./views/About/AboutPatient";
-import AboutLab from "./views/About/AboutLab";
-import Research from "./views/Offer/ResearchServices";
-import Specialist from "./views/Offer/SpecialistPortal";
-import LabConsulting from "./views/Offer/LabConsulting";
+// import LandingPage from "./views/LandingPage/LandingPage";
+// import Services from "./views/Servic/Service";
+// import LearnMore from "./views/Learn-More/LearnMore";
+// import Location from "./views/Location/Location";
+// import Login from "./views/Login-Signup/Login";
+// import LoginDr from "./views/Login-Signup/loginDr";
+// import LoginLab from "./views/Login-Signup/loginLab";
+// import SignUp from "./views/Login-Signup/SignUp";
+// import WhyChooseUs from "./views/ChooseUs/WhyChooseUs";
+// import AboutDoctor from "./views/About/AboutDoctor";
+// import AboutPatient from "./views/About/AboutPatient";
+// import AboutLab from "./views/About/AboutLab";
+// import Research from "./views/Offer/ResearchServices";
+// import Specialist from "./views/Offer/SpecialistPortal";
+// import LabConsulting from "./views/Offer/LabConsulting";
 import ErrorPage from "./Components/ErrorPage";
-import PatientDashbord from "./PatientDashbord";
-import ConfirmOtp from "./views/Login-Signup/ConfirmOtp";
-import LabOTP from "./views/Login-Signup/LabOTP";
+// import PatientDashbord from "./PatientDashbord";
+// import ConfirmOtp from "./views/Login-Signup/ConfirmOtp";
+// import LabOTP from "./views/Login-Signup/LabOTP";
 import DoctorDash from "./Components/Doctor/DoctorDash";
 import Dashbord from './Components/Doctor/Pages/Dashbord'
 import EditProfile from './Components/Doctor/Pages/EditProfile'
 import OrderNewTest from './Components/Doctor/Pages/OrderNewTest'
 import ViewTest from './Components/Doctor/Pages/ViewTest'
-import PatientDash from './Components/Patient/PatientDash'
-import PDashbord from './Components/Patient/Pages/PDashbord'
-import PEditProfile from './Components/Patient/Pages/OrderNewTest'
-import AdminDash from "./Components/Admin/AdminDash";
-import Doctors from './Components/Admin/Pages/Doctors'
-import Patient from './Components/Admin/Pages/Patients'
-import Laborateries from './Components/Admin/Pages/Laborateries'
-import Dashbords from './Components/Admin/Pages/Dashbord'
-import Tests from './Components/Admin/Pages/Tests'
-import LabDash from "./Components/Lab/LabDash";
-import DashbordL from "./Components/Lab/Pages/Dashbord";
-import EditProfileL from "./Components/Lab/Pages/EditProfile";
-import ProcessTestL from "./Components/Lab/Pages/ProcessTest";
-import ViewTestL from "./Components/Lab/Pages/ViewTest";
+// import PatientDash from './Components/Patient/PatientDash'
+// import PDashbord from './Components/Patient/Pages/PDashbord'
+// import PEditProfile from './Components/Patient/Pages/OrderNewTest'
+// import AdminDash from "./Components/Admin/AdminDash";
+// import Doctors from './Components/Admin/Pages/Doctors'
+// import Patient from './Components/Admin/Pages/Patients'
+// import Laborateries from './Components/Admin/Pages/Laborateries'
+// import Dashbords from './Components/Admin/Pages/Dashbord'
+// import Tests from './Components/Admin/Pages/Tests'
+// import LabDash from "./Components/Lab/LabDash";
+// import DashbordL from "./Components/Lab/Pages/Dashbord";
+// import EditProfileL from "./Components/Lab/Pages/EditProfile";
+// import ProcessTestL from "./Components/Lab/Pages/ProcessTest";
+// import ViewTestL from "./Components/Lab/Pages/ViewTest";
 
 
 
